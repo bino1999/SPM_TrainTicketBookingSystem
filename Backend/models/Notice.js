@@ -13,4 +13,4 @@ const NoticeSchema = new Schema({
 
 });
 
-export const NoticeModel = mongoose.model('Notice', NoticeSchema);
+export const Model = mongoose.model('Notice', NoticeSchema);
