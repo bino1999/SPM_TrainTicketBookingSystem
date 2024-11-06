@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: SPM_TrainTicketBookingSystem
+  annotations:
+    github.com/project-slug: bino1999/SPM_TrainTicketBookingSystem
+spec:
+  type: other
+  lifecycle: unknown
+  owner: nb
